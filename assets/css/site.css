@@ -294,25 +294,6 @@ main > .wrap > .content { max-width: 880px; margin: 0 auto; }
   margin-bottom: 20px;
 }
 
-/* ── Themes (minimal inline list) ── */
-.theme-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  font-size: 1rem;
-  line-height: 1.9;
-  color: var(--ink);
-}
-.theme-list li {
-  display: inline;
-}
-.theme-list li:not(:last-child)::after {
-  content: " \00B7 ";
-  color: var(--muted);
-  margin: 0 6px;
-  font-weight: 400;
-}
-
 /* ── News ── */
 .news-item {
   border-left: 2px solid var(--teal);
