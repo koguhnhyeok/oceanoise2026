@@ -139,11 +139,8 @@ header .meta .meta-link:hover { text-decoration-color: rgba(255,255,255,.85); }
   color: rgba(255,255,255,.4);
 }
 .site-nav .disabled .tag {
-  margin-left: 5px;
-  font-size: .68rem;
-  letter-spacing: normal;
-  color: rgba(255,255,255,.35);
-  text-transform: none;
+  margin-left: 3px;
+  color: rgba(255,255,255,.45);
 }
 
 /* ── Main ── */
