@@ -13,6 +13,9 @@ desktop.ini
 ehthumbs.db
 $RECYCLE.BIN/
 
+# Microsoft Office lock files
+~$*
+
 # Build artifacts (none currently, but reserved)
 dist/
 node_modules/

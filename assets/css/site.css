@@ -394,7 +394,7 @@ main { padding: 56px 0 24px; }
 #abstract-cta .btn-row { margin-top: 0; }
 
 /* ── Schedule Table ── */
-.schedule { margin-top: 64px; }
+.schedule { margin-top: 64px; scroll-margin-top: 24px; }
 .schedule h2 {
   font-size: 1.15rem;
   font-weight: 700;
